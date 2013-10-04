@@ -7,7 +7,7 @@ It has some footprints which came from various other libraries on my system.
         (type Github)
         (uri https://github.com/liftoff-sr/pretty_footprints)
         (options "")
-        (descr "Initial testing of a GIT HTTP PLUGIN for KiCad.\\nIt has some footprints which came from various other libraries on my system.")
+        (descr "Initial testing of a GIT HTTP PLUGIN for KiCad.\nIt has some footprints which came from various other libraries on my system.")
       )
     )
 
