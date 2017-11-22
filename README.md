@@ -5,8 +5,9 @@ in KiCad.
 
 ToDo: write a python script which creates a README.md file like this one automatically
 from the contents of a pretty directory.  Of particular value are two results:
-1 The copy and paste text which makes adding libraries easy to the table editor.
-2 The footprint specific text, which should be extracted from the description field
+
+1. The copy and paste text which makes adding libraries easy to the table editor.
+2. The footprint specific text, which should be extracted from the description field
 of each respective footprint.
 
     (fp_lib_table
