@@ -25,6 +25,6 @@ This is a piano key toggle switch I use to hang off the end of a board and set o
 ToDo: write a python script which creates a README.md file like this one automatically
 from the contents of a pretty directory.  Of particular value are two results:
 
-1. The 'copy and paste text block above' which makes adding libraries easy to the table editor.
+1. The 'copy and paste text block' above, which makes adding libraries to the table editor easy.
 2. The footprint specific text, which should be extracted from the description field
-of each respective footprint.
+of each respective footprint.  These descriptions can be uses in the un-numbered bullets above.
