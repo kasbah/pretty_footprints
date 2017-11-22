@@ -1,9 +1,9 @@
-(module CFII_FLASH_3M (layer F.Cu)
-  (at 0 0)
+(module CFII_FLASH_3M (layer F.Cu) (tedit 58ADE443)
+  (solder_mask_margin 0.12192)
   (fp_text reference U10 (at -22.098 -1.4224) (layer F.SilkS)
     (effects (font (size 0.889 0.762) (thickness 0.1524)))
   )
-  (fp_text value CFCARD (at 17.6276 41.1988) (layer F.SilkS) hide
+  (fp_text value CFCARD (at 17.6276 41.1988) (layer F.SilkS)
     (effects (font (size 0.889 0.762) (thickness 0.1524)))
   )
   (fp_line (start -19.99996 27.0002) (end 19.99996 27.0002) (layer F.SilkS) (width 0.127))
